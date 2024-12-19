@@ -15,7 +15,7 @@ spec: # Dictionary
     spec:
       containers: # List
         - name: myapp1-container
-          image: terraform-learning/kubenginx:1.0.0
+          image: rajtrainingtfc/nginx-new
           ports: 
             - containerPort: 80  
     
