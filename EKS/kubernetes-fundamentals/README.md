@@ -1,10 +1,10 @@
 # Kubernetes Fundamentals
 
-[![Image](https://terraform-learning.com/course-images/AWS-EKS-Kubernetes-Masterclass-DevOps-Microservices-course.png "AWS EKS Kubernetes - Masterclass")](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?referralCode=257C9AD5B5AF8D12D1E1)
+[![Image](https://terraform-learning.com/course-images/AWS-EKS-Kubernetes-Masterclass-DevOps-Microservices-course.png "AWS EKS Kubernetes - Masterclass")](https://www.learn.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?referralCode=257C9AD5B5AF8D12D1E1)
 
-## Two FREE Courses on Udemy
-- [Kubernetes for Absolute Beginners on AWS Cloud | Part-1](https://www.udemy.com/course/kubernetes-for-absolute-beginners-on-aws-cloud-part-1)
-- [Kubernetes for Absolute Beginners on AWS Cloud | Part-2](https://www.udemy.com/course/kubernetes-for-absolute-beginners-on-aws-cloud-part-2)
+## Two FREE Courses on learn
+- [Kubernetes for Absolute Beginners on AWS Cloud | Part-1](https://www.learn.com/course/kubernetes-for-absolute-beginners-on-aws-cloud-part-1)
+- [Kubernetes for Absolute Beginners on AWS Cloud | Part-2](https://www.learn.com/course/kubernetes-for-absolute-beginners-on-aws-cloud-part-2)
 
 ## Contents
 
@@ -131,9 +131,5 @@
 - Friendly Support in the Q&A section
 - 30 Day "No Questions Asked" Money Back Guarantee!
 
-## My Other AWS Courses
-- [Udemy Enroll](https://github.com/terraform-learning/udemy-enroll)
 
-## Stack Simplify Udemy Profile
-- [Udemy Profile](https://www.udemy.com/user/terraform-learning-aws-9/)
 
